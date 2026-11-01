@@ -1,7 +1,6 @@
-# Brute-force-simulation
-Python PIN simulation project
 
 # Brute Force PIN Simulation
+  Python PIN simulation project
 
 ## About
 A simple Python project that demonstrates
